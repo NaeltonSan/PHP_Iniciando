@@ -1,0 +1,12 @@
+<?php
+
+// comentario
+
+/*
+
+comentario
+
+*/
+
+
+?>
